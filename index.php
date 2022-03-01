@@ -29,12 +29,12 @@
 			<h4 style="margin-left: auto;margin-right: auto; width: 85px">About me:</h4>
 		</div>
 		<div class=text>
-			<p>⠀★ Hi! I'm Della, welcome to my website! I'm a digital artist, YouTuber, and proud cat owner!</p>
+			<p> ★ Hi! I'm Della, welcome to my website! I'm a digital artist, YouTuber, and proud cat owner!</p>
 			<h3>୨୧ Things I enjoy: ୨୧</h3>
-			<p>⠀★ Cats and dogs.</p>
-			<p>⠀★ Making artwork.</p>
-			<p>⠀★ Cute clothes.</p>
-            <p>⠀★ Making YouTube videos!</p>
+			<p> ★ Cats and dogs.</p>
+			<p> ★ Making artwork.</p>
+	        <p> ★ Cute clothes.</p>
+            <p> ★ Making YouTube videos!</p>
 		</div>
 		<div class=center>
 			<h4>‧⁺˚*･༓ ✿
