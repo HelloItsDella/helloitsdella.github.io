@@ -37,10 +37,10 @@
             <p> ★ Making YouTube videos!</p>
 		</div>
 		<div class=center>
-			<h4> ✧･ﾟ⋆ ˚｡⋆୨୧˚ ✿
+			<h4> ✧･ﾟ⋆ ˚｡⋆☾˚ ✿
 				<a style="color:#aabaff" href="https://discord.gg/qb5z3Y2Aca " target="_blank" rel="noopener" rel="noreferrer">Discord </a>✿
 				<a style="color:#aabaff" href="https://www.youtube.com/channel/UCtMA2dgxu0G_waNWWBx69Dw" target="_blank" rel="noopener" rel="noreferrer">YouTube </a>✿
-				<a style="color:#aabaff" href="https://www.roblox.com/users/877804212/profile" target="_blank" rel="noopener" rel="noreferrer">Roblox </a>✿  ˚୨୧⋆｡˚ ⋆･ﾟ✧
+				<a style="color:#aabaff" href="https://www.roblox.com/users/877804212/profile" target="_blank" rel="noopener" rel="noreferrer">Roblox </a>✿  ˚☽⋆｡˚ ⋆･ﾟ✧
 		</div>
 		</main>
 	</body>
