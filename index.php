@@ -6,9 +6,9 @@
 	<style>
 	html {background-image: url("shibebackground.jpg"); background-color: black;}
 	body {max-width: 650px; margin: auto; margin-top: 12px; margin-bottom: 12px; font-family: 'Mona'; src: url('data/Mona.ttf');}
-	main {padding: 8px; padding-left: 12px; padding-right: 12px; background-image: url("blueskye.jpg");}
+	main {padding: 8px; padding-left: 12px; padding-right: 12px; background-image: url("");}
 	h1,h2,h3 {font-family: 'Palatino Linotype'; src: url('data/pala.ttf');}
-	h1 {text-shadow: 2px 2px #ffacac; color: #ffbebe; font-size: 26px; text-align: center;}
+	h1 {text-shadow: 2px 2px #dda1bb; color: #ffb4d3; font-size: 26px; text-align: center;}
 	h2 {text-shadow: 2px 2px #d4a362; font-size: 30px; color: #F8BE71; text-align: center;}
 	h3 {border-bottom: 1px double rgb(0, 0, 0); padding: 4px}
 	h4 {border: 1px solid black; padding: 2px;background-color: white; box-shadow: 5px 5px grey}
