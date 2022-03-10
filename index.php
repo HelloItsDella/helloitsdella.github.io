@@ -6,7 +6,7 @@
     <meta property="og:image" content="shibelogo.png">
     <meta property="og:title" content="Della's Website!">
     <meta property="og:url" content="https://helloitsdella.herokuapp.com/">
-    <meta property="og:description" content="Hi! I'm Della, welcome to my website! I'm a digital artist, YouTuber, and proud cat owner!">
+    <meta property="og:description" content="Hi! I'm Della, welcome to my website!">
     <meta name="theme-color" content="#FDDBD2">
     <link rel="shortcut icon" type="image/png" href="favicon.png">
     <title>Della's Website!</title>
