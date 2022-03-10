@@ -1,6 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+	<meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta property="og:image" content="favicon.png">
+    <meta property="og:title" content="Della's Website!">
+    <meta property="og:url" content="https://helloitsdella.herokuapp.com/">
+    <meta property="og:description" content="Hi! I'm Della, welcome to my website! I'm a digital artist, YouTuber, and proud cat owner!">
+    <meta name="theme-color" content="#FDDBD2">
     <link rel="shortcut icon" type="image/png" href="favicon.png">
     <title>Della's Website!</title>
 	<style>
@@ -38,9 +45,9 @@
 		</div>
 		<div class=center>
 			<h4> ✧･ﾟ⋆ ˚｡⋆☾˚ ✿
-				<a style="color:#aabaff" href="https://discord.gg/qb5z3Y2Aca " target="_blank" rel="noopener" rel="noreferrer">Discord </a>✿
-				<a style="color:#aabaff" href="https://www.youtube.com/channel/UCtMA2dgxu0G_waNWWBx69Dw" target="_blank" rel="noopener" rel="noreferrer">YouTube </a>✿
-				<a style="color:#aabaff" href="https://www.roblox.com/users/877804212/profile" target="_blank" rel="noopener" rel="noreferrer">Roblox </a>✿  ˚☽⋆｡˚ ⋆･ﾟ✧
+				<a style="color:#a7b0ff" href="https://discord.gg/qb5z3Y2Aca " target="_blank" rel="noopener" rel="noreferrer">Discord </a>✿
+				<a style="color:#d1b9f8" href="https://www.youtube.com/channel/UCtMA2dgxu0G_waNWWBx69Dw" target="_blank" rel="noopener" rel="noreferrer">YouTube </a>✿
+				<a style="color:#d1b9f8" href="https://www.roblox.com/users/877804212/profile" target="_blank" rel="noopener" rel="noreferrer">Roblox </a>✿  ˚☽⋆｡˚ ⋆･ﾟ✧
 		</div>
 		</main>
 	</body>
