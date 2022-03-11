@@ -38,7 +38,7 @@
 		</div>
 		<div class=center>
 			<h4> ✧･ﾟ⋆ ˚｡⋆☾˚ ✿
-				<a style="color:#a7b0ff" href="https://discord.gg/qb5z3Y2Aca " target="_blank" rel="noopener" rel="noreferrer">Discord </a>✿
+				<a style="color:#d1b9f8" href="https://discord.gg/qb5z3Y2Aca " target="_blank" rel="noopener" rel="noreferrer">Discord </a>✿
 				<a style="color:#d1b9f8" href="https://www.youtube.com/channel/UCtMA2dgxu0G_waNWWBx69Dw" target="_blank" rel="noopener" rel="noreferrer">YouTube </a>✿
 				<a style="color:#d1b9f8" href="https://www.roblox.com/users/877804212/profile" target="_blank" rel="noopener" rel="noreferrer">Roblox </a>✿  ˚☽⋆｡˚ ⋆･ﾟ✧
 		</div>
