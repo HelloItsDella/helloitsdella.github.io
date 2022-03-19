@@ -1,10 +1,10 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 <head>
     <link rel="shortcut icon" type="image/png" href="favicon.png">
     <title>Della's Website!</title>
 	<style>
-	html {background-image: url("shibebackground.jpg"); background-color: black;}
+	html {background-image: url("shibebackground.jpg"); background-color: rgb(255, 226, 226);}
 	body {max-width: 650px; margin: auto; margin-top: 12px; margin-bottom: 12px; font-family: 'Mona'; src: url('data/Mona.ttf');}
 	main {padding: 8px; padding-left: 12px; padding-right: 12px; background-image: url("");}
 	h1,h2,h3 {font-family: 'Palatino Linotype'; src: url('data/pala.ttf');}
@@ -14,8 +14,10 @@
 	h4 {border: 1px solid black; padding: 2px;background-color: white; box-shadow: 5px 5px grey}
 	a {text-decoration: none}
 	.title {background-image: url("pinktexture.png"); box-shadow: 5px 5px #ffe7e7;}
-	.text {border: 1px solid black; padding: 2px; background-color: white; box-shadow: 5px 5px grey}
+	.text {border: 1px solid black; padding: 2px; background-color: white; box-shadow: 5px 5px grey; background-color: #F9F7F9;}
 	.center {text-align: center;}
+	.about {text-align: center;}
+	.center2 {background-color: #F9F7F9; text-align: center;}
 	</style>
 </head>
 	<body>
@@ -25,8 +27,10 @@
 			<h2>✧༺♥༻ Della's Website! ༺♥༻✧</h2>
 		</div>
 		<div class=center>
-			<img title="Shibe." src="shibe1.png" style="width:120px; height:120px; border:6px solid white; box-shadow: 5px 5px grey">
-			<h4 style="margin-left: auto;margin-right: auto; width: 85px">About me:</h4>
+			<img title="Shibe." src="shibe1.png" style="width:120px; height:120px; border: 6px solid #F9F7F9; box-shadow: 5px 5px grey">
+		</div>
+			<div class="about">
+			<h4 style="margin-left: auto;margin-right: auto; width: 85px; background-color: #F9F7F9">About me:</h4>
 		</div>
 		<div class=text>
 			<p> ★ Hi! I'm Della, welcome to my website! I'm a digital artist, YouTuber, and proud cat owner!</p>
@@ -36,7 +40,7 @@
 	        <p> ★ Cute clothes.</p>
             <p> ★ Making YouTube videos!</p>
 		</div>
-		<div class=center>
+		<div class=center2>
 			<h4> ✧･ﾟ⋆ ˚｡⋆☾˚ ✿
 				<a style="color:#d1b9f8" href="https://discord.gg/qb5z3Y2Aca " target="_blank" rel="noopener" rel="noreferrer">Discord </a>✿
 				<a style="color:#d1b9f8" href="https://www.youtube.com/channel/UCtMA2dgxu0G_waNWWBx69Dw" target="_blank" rel="noopener" rel="noreferrer">YouTube </a>✿
